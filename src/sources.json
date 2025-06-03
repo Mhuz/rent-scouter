@@ -1,0 +1,8 @@
+{
+  "subito":{
+    "params": {
+      "min_price": "ps",
+      "max_price": "pe"
+    }
+  }
+}
